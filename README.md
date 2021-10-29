@@ -16,9 +16,6 @@ Meu nome é Iesley Bezerra, sou um estudante de Ciência da Computação na Univ
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="15px"> Principais Tecnologias:
 
   
-
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-294E80?style=flat-square&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/) [![NodeJS Badge](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/) [![React Native Badge](https://img.shields.io/badge/-React%20Native-5667F9?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
-
-  
-
+[![Go Badge](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=Go&logoColor=white&link=https://golang.org/)](https://golang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp) [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 ---
