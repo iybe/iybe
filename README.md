@@ -8,9 +8,8 @@
 
 ## Bem vindo a minha Pagina no GitHub!
 
-  
 
-Meu nome é Iesley Bezerra, sou um estudante de Ciência da Computação na Universidade Federal do Ceará - Campus Quixada, e um aficionado pelo uso da computação na resolução de problemas. 
+Sou desenvolvedor de software back-end com experiência em microsserviços, banco de dados e go, e tenho bacharelado em ciencia da computação. 
   
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="15px"> Principais Tecnologias:
