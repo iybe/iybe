@@ -16,5 +16,4 @@ Sou desenvolvedor de software back-end com experiência em microsserviços, banc
 
   
 [![Go Badge](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=Go&logoColor=white&link=https://golang.org/)](https://golang.org/)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp) [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 ---
