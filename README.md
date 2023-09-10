@@ -9,7 +9,7 @@
 ## Bem vindo a minha Pagina no GitHub!
 
 
-Sou desenvolvedor de software back-end com experiência em microsserviços, banco de dados e go, e tenho bacharelado em ciencia da computação. 
+Sou desenvolvedor de software back-end com experiência em microsserviços, bancos de dados e Go, e tenho Bacharelado em Ciência da Computação pela Universidade Federal do Ceará. 
   
 
 ### Principais Tecnologias:
